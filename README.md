@@ -1,4 +1,4 @@
-                                   # CMPE 130 Mini Location Map for Traveling
+                                    CMPE 130 Mini Location Map for Traveling
 
 
 
