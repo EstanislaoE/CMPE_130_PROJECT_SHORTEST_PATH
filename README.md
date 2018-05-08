@@ -1,8 +1,13 @@
                                     CMPE 130 Mini Location Map for Traveling
 
+
 Ankhbayar Baljinnyam
+
 Edgar Estanislao
+
 Jie Zheng
+
+
 
 We came up with this project so it will help people choose the travel op?on which is the best suited for
 their interest. The parameters we are looking at are the cost of the travel schedule plan and the ?me of
