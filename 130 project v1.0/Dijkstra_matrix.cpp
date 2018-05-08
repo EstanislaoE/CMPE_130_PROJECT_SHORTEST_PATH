@@ -16,9 +16,7 @@ dijkstra::dijkstra()
 }
 void dijkstra::_LOAD_DATA_(char *filename)
 {
-	//based on the each city's distance to another city which read from file, 
-	//I put the distance (undriect graph it means that distance_matrix[i][j] = distance_matrix[j][i])
-	// to the distance_matrix (2d vector
+	
 	freopen(filename, "r", stdin);
 	int city_start;
 	int city_end;
@@ -30,13 +28,6 @@ void dijkstra::_LOAD_DATA_(char *filename)
 		distance_matrix[city_end][city_start] = weight;
 	}
 
-	//show the matrix to check whether it is correct
-	/*for (int i = 0; i <= city_number; i++)
-	{
-		for (int j = 0; j <= city_number; j++)
-			std::cout << distance_matrix[i][j];
-		std::cout << std::endl;
-	}*/
 }
 
 void dijkstra::_EXPLORE_MATRIX(int start_vertex)
