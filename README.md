@@ -17,4 +17,4 @@ Los Angeles, San Francisco, San Jose, and Las Vegas, then we would provide the s
 ini?al loca?on which goes through all desired travel des?na?ons, but never go through the same travel
 des?na?ons again. Also, we are providing the cost of the travel and the ?me of the travel if the customer
 wants different travel op?ons such as driving by car, using long distance bus, or ride on airplane.
-For data structures and algorithms, we are using graphs, traversals, and shortest paths.
+For data structures and algorithms, we are using graphs, traversals, and shortest paths. 
