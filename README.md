@@ -1,13 +1,14 @@
-# CMPE_130_PROJECT_SHORTEST_PATH 
+                                   # CMPE 130 Mini Location Map for Traveling
+
 
 
 
 Travel schedule plan
 
-Ankhbayar Baljinnyam 012241502
-Edgar Estanislao 008779979
-Jie Zheng 012117339
-Abstract of The Project
+Ankhbayar Baljinnyam
+Edgar Estanislao
+Jie Zheng
+                                        # Abstract of The Project
 We came up with this project so it will help people choose the travel op?on which is the best suited for
 their interest. The parameters we are looking at are the cost of the travel schedule plan and the ?me of
 the travel schedule plan. We are crea?ng travel schedule plan which creates the shortest path from
